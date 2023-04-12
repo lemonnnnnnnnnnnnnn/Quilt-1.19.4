@@ -1,5 +1,6 @@
 package io.github.lemonnnnnnnnnnnnnn.lemon_quilt;
 
+import io.github.lemonnnnnnnnnnnnnn.lemon_quilt.block.ModBlocks;
 import io.github.lemonnnnnnnnnnnnnn.lemon_quilt.item.ModItemGroup;
 import io.github.lemonnnnnnnnnnnnnn.lemon_quilt.item.ModItems;
 import org.quiltmc.loader.api.ModContainer;
@@ -16,5 +17,6 @@ public class LemonQuiltMain implements ModInitializer {
 		LOGGER.info("Hello Quilt!");
 		ModItemGroup.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

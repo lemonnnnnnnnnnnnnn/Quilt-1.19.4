@@ -1,6 +1,8 @@
 {
-  "item.lemon_quilt.raw_dev": "Raw Dev",
-  "item.lemon_quilt.dev_ingot": "Dev Ingot",
+  "item.lemon_quilt.raw_dev": "Raw Developer",
+  "item.lemon_quilt.dev_ingot": "Developer Ingot",
+
+  "block.lemon_quilt.dev_block": "Block of Developer",
 
   "itemgroup.dev": "Dev Item Group"
 }

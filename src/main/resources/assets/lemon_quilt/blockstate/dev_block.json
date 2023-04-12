@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lemon_quilt:block/dev_block" }
+  }
+}
